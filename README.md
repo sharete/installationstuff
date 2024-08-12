@@ -1,6 +1,13 @@
 # installationstuff
 Some standard stuff to use on new Linux installation
 
+# SSH-Key erstellen
+
+## Kommando
+
+```bash
+ssh-keygen -t rsa -b 4096
+```
 
 # Mail
 
